@@ -1,3 +1,4 @@
+![forexforestLogo](forex.png)
 # About Forex Forest :pound: :
 - Hong Kong-based Forex Forest specializes in providing education and skills training for automated trading across various markets
 - It also develops software for automated trading on the Mega Trader 4 (MT4) platform, which is used by millions of traders around the world.
@@ -29,7 +30,7 @@
 1. Scalability: With AWS's scalable infrastructure, Forex Forest can support global expansion and meet growing market demand.
 1. The company became IPO ready by gaining the investors trust after shifting to amazon security hub, making sure they will get a fair price for the value of the company.
 
-
+![globe](globe.jpeg)
 **Summry** :
 - The case study highlights the way in which forex forest utilized AWS to overcome infrastructure challenges, reduce expenditure as well as prepare for future growth. It presents the advantages of cloud migration for businesses such as in the financial services sector, and more so in automation and scalability.
 
